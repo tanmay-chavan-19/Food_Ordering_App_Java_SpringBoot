@@ -1,0 +1,11 @@
+C:\Users\Acer\Documents\Food_Ordering_App_Java_SpringBoot\auth-service\src\main\java\com\nimbus\auth\model\User.java
+C:\Users\Acer\Documents\Food_Ordering_App_Java_SpringBoot\auth-service\src\main\java\com\nimbus\auth\AuthServiceApplication.java
+C:\Users\Acer\Documents\Food_Ordering_App_Java_SpringBoot\auth-service\src\main\java\com\nimbus\auth\config\SecurityConfig.java
+C:\Users\Acer\Documents\Food_Ordering_App_Java_SpringBoot\auth-service\src\main\java\com\nimbus\auth\service\AuthService.java
+C:\Users\Acer\Documents\Food_Ordering_App_Java_SpringBoot\auth-service\src\main\java\com\nimbus\auth\dto\JwtResponse.java
+C:\Users\Acer\Documents\Food_Ordering_App_Java_SpringBoot\auth-service\src\main\java\com\nimbus\auth\model\UserRole.java
+C:\Users\Acer\Documents\Food_Ordering_App_Java_SpringBoot\auth-service\src\main\java\com\nimbus\auth\security\JwtUtils.java
+C:\Users\Acer\Documents\Food_Ordering_App_Java_SpringBoot\auth-service\src\main\java\com\nimbus\auth\controller\AuthController.java
+C:\Users\Acer\Documents\Food_Ordering_App_Java_SpringBoot\auth-service\src\main\java\com\nimbus\auth\dto\SignupRequest.java
+C:\Users\Acer\Documents\Food_Ordering_App_Java_SpringBoot\auth-service\src\main\java\com\nimbus\auth\repository\UserRepository.java
+C:\Users\Acer\Documents\Food_Ordering_App_Java_SpringBoot\auth-service\src\main\java\com\nimbus\auth\dto\LoginRequest.java
